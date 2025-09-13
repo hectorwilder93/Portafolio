@@ -87,7 +87,7 @@ span{
 
 .briefcase-grid{
     display:grid;
-    grid-template-columns: repeat(auto-fit, minmax(290px,auto));
+    grid-template-columns: repeat(auto-fit, minmax(270px,auto));
     gap: 15px;
     width: 90%;
     margin: 0 auto;
@@ -262,7 +262,7 @@ footer{
 
 .eins-modal-preview img{
     width: 100%;
-    padding: 0 50px 20px 0;
+    padding: 0 40px 20px 0;
 }
 
 .pw-content{
